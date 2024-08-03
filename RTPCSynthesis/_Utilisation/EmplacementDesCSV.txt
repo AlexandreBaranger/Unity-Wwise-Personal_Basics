@@ -1,0 +1,3 @@
+Les .csv sont crées dans le dossier StreamingAssets/Audio pour être utiliser par le controleur.
+Les .csv de preset sont à sauvegarder dans le dosiier StreamingAssets (pas dans Audio) pour être utiliser par le ExposeParamter
+

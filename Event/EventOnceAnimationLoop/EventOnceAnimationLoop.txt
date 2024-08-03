@@ -1,0 +1,9 @@
+WwiseAnimationEventOnce.cs
+Component à mettre sur le Game Object contenant l'animator
+La fonction à appeler dans l'animation: AudioEventOnce
+
+WwiseSpeedControlEventOnce.cs
+Component à mettre dans un nouvel Game Object,
+puis drag and drop le game object contenant l'animator et le script AnimationEventOnce.cs
+dans l'emplacement Animation Event du component.
+

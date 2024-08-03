@@ -1,0 +1,5 @@
+AnimPlayerIdle
+AnimPlayerSpawn
+AnimPlayerDeath
+AnimPlayerHurt
+AnimPlayerVictory

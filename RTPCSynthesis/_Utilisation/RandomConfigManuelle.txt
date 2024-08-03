@@ -1,0 +1,4 @@
+utilisation du script RTPCSynthExposeParameter.cs 
+Pour travailler  le random il faut le configurer manuellement dans le .csv
+Volume,Parameter,Value,MinRandomRange,MaxRandomRange
+Volume1,Parameter1,0.5,-0.1,0.1

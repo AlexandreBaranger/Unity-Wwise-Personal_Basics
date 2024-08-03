@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1feed0094e89bc4180b444a597b9c79, type: 3}
+  m_Name: CeilingTubeLight_01_Prefab
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7262381261027993333, guid: 03a9399f7b22b294f84208549398bd7b, type: 3}
+  prefabName: CeilingTubeLight_01_Prefab
+  instanceCreated: 0
+  instantiateEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 33149f035b6dd8549b35aa02f6b37d45, type: 2}
+  destroyEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: a525f066705dbd64e9afa0b8265e59bb, type: 2}
